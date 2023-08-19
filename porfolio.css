@@ -12,12 +12,12 @@ body{
     line-height: 1.5;
 }
 :root{
-    --color1: #23e909;
+    --color1: #54e807;
     --color2: #ffffff;
-    --color3: #f4f4f4;
+    --color3: #f5f5f5;
 }
 div.cover{
-    background: url("cover1.png") no-repeat center/100% 100%, url("cover.jpg") no-repeat center/cover;
+    background: url("cover1.jpg") no-repeat center/100% 100%, url("cover2.jpg") no-repeat center/cover;
     background-color: rgb(81, 230, 125);
     height: 360px;
     position: relative;
